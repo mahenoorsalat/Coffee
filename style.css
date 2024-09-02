@@ -248,7 +248,7 @@ margin: 32px 89px;
 @media (max-width:420px){
     body{
         height: 100vh;
-        width: 100vw;
+        width: 100%;
         overflow-x: hidden;
     }
     .navbar {
@@ -259,7 +259,7 @@ margin: 32px 89px;
  
     #Home img {
         margin: 89px 7px;
-        width: 101%;
+        width: 96%;
         justify-content: center;
         height: 500px;
     }
@@ -271,7 +271,7 @@ margin: 32px 89px;
 #About img {
     height: auto;
     max-height: 439px;
-    width: 161%;
+    width: 100%;
 }
 #About1{
     display: flex;
@@ -312,7 +312,7 @@ margin: 32px 89px;
 }
 #Home h1 {
     margin: 21px -11px;
-    width: 107%;
+    width: 100%;
     font-size: 43px;
     display: flex;
     flex-direction: column;
